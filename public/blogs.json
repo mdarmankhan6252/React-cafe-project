@@ -1,0 +1,53 @@
+[
+   {
+     "id": "001",
+     "cover": "https://i.ibb.co/PG1Z30G/neom-SGZ5-Dk-DOo-Ro-unsplash.jpg",
+     "title": "The Mystery of the Lost Treasure",
+     "author": "John Doe",
+     "author_img": "https://i.ibb.co/N25N1Qv/craig-mckay-jm-URdhtm7-Ng-unsplash.jpg",
+     "posted_date": "2024-03-18",
+     "reading_time": 36,
+     "hashtags": ["mystery", "adventure", "treasure"]
+   },
+   {
+     "id": "002",
+     "cover": "https://i.ibb.co/PG1Z30G/neom-SGZ5-Dk-DOo-Ro-unsplash.jpg",
+     "title": "Space Explorers: The Galactic Odyssey",
+     "author": "Jane Smith",
+     "author_img": "https://i.ibb.co/N25N1Qv/craig-mckay-jm-URdhtm7-Ng-unsplash.jpg",
+     "posted_date": "2024-03-17",
+     "reading_time":12,
+     "hashtags": ["space", "sciencefiction", "adventure"]
+   },
+   {
+     "id": "003",
+     "cover": "https://i.ibb.co/PG1Z30G/neom-SGZ5-Dk-DOo-Ro-unsplash.jpg",
+     "title": "Cooking Around the World",
+     "author": "Emily Johnson",
+     "author_img": "https://i.ibb.co/N25N1Qv/craig-mckay-jm-URdhtm7-Ng-unsplash.jpg",
+     "posted_date": "2024-03-16",
+     "reading_time":22,
+     "hashtags": ["cooking", "food", "travel"]
+   },
+   {
+     "id": "004",
+     "cover": "https://i.ibb.co/PG1Z30G/neom-SGZ5-Dk-DOo-Ro-unsplash.jpg",
+     "title": "The Art of Painting: A Beginner's Guide",
+     "author": "Michael Adams",
+     "author_img": "https://i.ibb.co/N25N1Qv/craig-mckay-jm-URdhtm7-Ng-unsplash.jpg",
+     "posted_date": "2024-03-15",
+     "reading_time": 52,
+     "hashtags": ["art", "painting", "beginners"]
+   },
+   {
+     "id": "005",
+     "cover": "https://i.ibb.co/PG1Z30G/neom-SGZ5-Dk-DOo-Ro-unsplash.jpg",
+     "title": "Fitness and Well-being: Your Journey to a Healthier You",
+     "author": "Sarah Brown",
+     "author_img": "https://i.ibb.co/N25N1Qv/craig-mckay-jm-URdhtm7-Ng-unsplash.jpg",
+     "posted_date": "2024-03-14",
+     "reading_time": 50,
+     "hashtags": ["fitness", "health", "wellness"]
+   }
+ ]
+ 
